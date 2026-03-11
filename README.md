@@ -1,5 +1,5 @@
 # Major-Project
-Cross-Platform Approach to Self-Reported Exact Age Detection in Social Media
+## **Cross-Platform Approach to Self-Reported Exact Age Detection in Social Media**
 
 **Author: Tirth Bhupendra Dalwadi**
 
